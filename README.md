@@ -1,7 +1,8 @@
 # RamblerTest
-##Программа проверяет страницу rambler.ru##
 
-###Используемые технологии: Selenium, Firefox, JUnit.###
+## Программа проверяет страницу rambler.ru
+
+### Используемые технологии: Selenium, Firefox, JUnit.
 
 Класс RamblerHomePage - инкапсулирует работу с отдельными элементами страницы rambler.ru.
 
